@@ -1,0 +1,27 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    background-color: #F5F5F5;
+}
+p{
+    font-size: 30px;
+}
+body{
+    background-color: #f8f8ff;
+}
+img{
+    width: 800px;
+    height: 500px;
+    border-style: groove;
+    border-radius: 5cqmin;
+    border-color: black;
+}
+iframe{
+    margin: 0px 50px;
+    border-style: groove;
+    border-radius: 2cqmin;
+    border-color: black;
+}
+p{
+    font-family: cursive;
+}
